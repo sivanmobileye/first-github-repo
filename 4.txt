@@ -1,1 +1,2 @@
-4
+stam line
+stam 2nd line
