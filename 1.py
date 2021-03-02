@@ -1,4 +1,4 @@
 import requests
 import sys
 requests.get("https://github.com")
-sys.exit(0)
+sys.exit(1)
